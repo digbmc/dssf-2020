@@ -42,19 +42,3 @@ The Digital Scholarship Summer Fellows program is a paid, full-time summer inter
 ### Week 9 (July 29-August 1) [Sustainability and preservation](weeks/)
 
 ### Week 10 (August 3-7) [Project wrap-up](weeks/)
-
-### 3. Archives and Digital Exhibitions
-
-### 4. Data Management and Visualization
-
-### 5. Mapping and Geospatial Data
-
-### 6. Computational Text Analysis
-
-### 7. Design and presentation
-
-### 8. Critical Making & Immersive DS
-
-### 9. Sustainability and preservation
-
-### 10. Wrapping up the '24 '31 Project
