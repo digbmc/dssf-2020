@@ -1,5 +1,7 @@
 
-# Week 1: Introduction to Digital Scholarship
+# Week 1: June 1-5
+
+**Introduction to Digital Scholarship**
 
 ## Monday, June 1
 
@@ -24,7 +26,7 @@ Project overview by Vanessa Davies
 - [ ] Digital Competencies reflection
 - [ ] Send Andrea your profile photo and a short bio for DS site
 
-
+---
 ## Tuesday, June 2
 
 ### 9:00 AM – Check-in
@@ -41,18 +43,18 @@ Project overview by Vanessa Davies
 ### 1:00 PM - Computational thinking
 
 - Discussion: how computers work, command line
-- Command line 
+- Command line
 
 ### 3:00 PM – Design thinking Workshop
 Led by Jenny Spohrer. With Educational Technology interns
 
-
+---
 
 ## Wednesday, June 3
 
 ### 10:00 AM - Project discussion
 
-Led by Vanessa Davies 
+Led by Vanessa Davies
 
 ### 1:00 PM – BMC Archives
 
@@ -60,17 +62,14 @@ Allison Mills, College Archivist
 
 ### 3:00 PM - SMART Goals
 
-
+---
 
 ## Thursday, June 4
 
-### 9:00 AM - 
-
 ### 1:30 PM - Project Management Workshop
 
-
+---
 
 ## Friday, June 5
 
 ### 11:00 AM - 24-31 Project Kickoff Meeting
-

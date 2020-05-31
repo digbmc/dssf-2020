@@ -1,8 +1,6 @@
-# Digital Scholarship Summer Fellows Program
+# About the program
 
-Bryn Mawr College, June 1-August 7, 2020
-
-## Program details
+Dates: June 1-August 7, 2020
 
 Program Director: [Alice McGrath](mailto:amcgrath1@brynmawr.edu)
 
