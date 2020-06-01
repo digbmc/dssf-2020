@@ -29,12 +29,11 @@ Microsoft Teams
 ### 2:30 PM — What is Digital Scholarship?
 [Slides](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EZMYcvVDa0pGid-DiYQf90gBxhrc9PtVGid3OjvJuheKMQ?e=xfvPWi)
 
-Choose a digital exhibition and example that you like. What do you like about it? How does it present materials? What components does it include?
+- Choose one of the project examples and reflect: who is its audience? Is it making an argument? What kinds of strategies does it use? Are they effective? Post your reflections to the DSSF channel on Teams.
 
 ### On your own
 
 - Watch [How Computers Work](https://www.khanacademy.org/computing/computer-science/how-computers-work2/v/khan-academy-and-codeorg-introducing-how-computers-work) videos and take notes
-- Digital Competencies reflection
 - Send Andrea your profile photo and a short bio to appear on the DS website
 - Familiarize yourself with project materials - take notes and develop questions
 
@@ -44,12 +43,20 @@ Choose a digital exhibition and example that you like. What do you like about it
 
 ### 9:00 AM – Check-in
 - Icebreaker
-- Project questions and ideas
 - Fill out timesheets
 
-### On your own
+### On your own:
 
-- Watch and follow along with: [Introduction to the command line (LinkedIn Learning tutorial)](https://www.linkedin.com/learning/learning-linux-command-line-2/)
+1. Read project materials for tomorrow's discussion:
+- Eugene Corbie, *The Crisis*, 1924
+- *College News*, April 9, 1924
+- *College News*, April 16, 1924
+- *College News*, April 29, 1931
+- *College News*, May 6, 1931
+
+2. Command line - start working through one of these two tutorials:
+- [Introduction to the command line (LinkedIn Learning tutorial)](https://www.linkedin.com/learning/learning-linux-command-line-2/)
+- [Command Line for scholars](https://github.com/tri-cods/command-line)
 - If you have extra time, play [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 
 ### 12:00 PM – Lunch break
@@ -58,7 +65,6 @@ Choose a digital exhibition and example that you like. What do you like about it
 
 - Discussion: how computers work videos
 - Command line review
-- SMART goals and personal learning plans
 
 ### 3:00 PM – Design Thinking Workshop
 
@@ -68,7 +74,7 @@ Led by Jenny Spohrer (with Educational Technology interns)
 
 ## Wednesday, June 3
 
-### 10:00 AM - Historical context discussion
+### 10:00 AM - '24 '31 Discussion
 
 Led by Vanessa Davies
 
@@ -81,7 +87,9 @@ Allison Mills, College Archivist
 ### 3:00 PM - On your own
 
 - Draft your SMART goals and post them to Teams
+- Project deliverables - read through
 - Exploratory research // brainstorming project ideas
+- Continue command line work
 
 ---
 
@@ -90,17 +98,33 @@ Allison Mills, College Archivist
 ### Morning - Humanities data & digital exhibitions
 <!--
 - Read Miriam Posner's post - [Humanities Data: A Necessary Contradiction](https://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)
-- [Data Trouble](https://www.youtube.com/watch?v=sW0u1pNQNxc) -->
+- [Data Trouble](https://www.youtube.com/watch?v=sW0u1pNQNxc)
+- Comparison: Scalar, Omeka, Wax, Wordpress?
+- Talking through project deliverables?
+ -->
+### 12:00 PM - Lunch
 
 ### 1:30 PM - Project Management Workshop
 Jenny Spohrer
+
+- Zoom link in calendar invite
 
 ---
 
 ## Friday, June 5
 
-### 9:00 AM - Proposing & planning extra content
+### 9:00 AM - Check-in
 
 ### 11:00 AM - 24-31 Project Kickoff Meeting
+- Review charter
+- Mini-project plans
 
-### Afternoon - one-on-one meetings
+### 12:00 PM - Lunch
+
+### PM - one-on-one meetings with Alice  
+
+### 3:00 PM - Digital Competencies
+
+Nathalia Santos
+
+- Zoom link in calendar
