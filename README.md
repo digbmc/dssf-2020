@@ -1,14 +1,21 @@
 # About the program
 
-Dates: June 1-August 7, 2020
-
-Program Director: [Alice McGrath](mailto:amcgrath1@brynmawr.edu)
-
-Research Project Director: Vanessa Davies
-
-Digital Scholarship Graduate Assistants: Molly Kuchler, Andrea Samz-Pustol
-
 The Digital Scholarship Summer Fellows program is a paid, full-time summer internship opportunity for Bryn Mawr students to learn digital research and publication methods and gain professional experience by collaborating on a public-facing digital scholarship project. Over the course of ten weeks, we will explore key issues and methods in digital scholarship, critical making, and multi-modal research through a combination of hands-on work, instruction, and discussion. Fellows will also have opportunities to present their work, create a personal digital portfolio, and learn about careers in libraries, museums, and digital media and research.
+
+## People
+
+[Alice McGrath](mailto:amcgrath1@brynmawr.edu) - Program director
+
+Vanessa Davies - Research project director
+
+Molly Kuchler - Digital Scholarship Graduate Assistant
+
+Andrea Samz-Pustol - Digital Scholarship Graduate Assistant
+
+Jenny Spohrer - Director of Educational and Scholarly Technology department
+
+Nathalia Santos - Coordinator of EaST Intern program 
+
 
 ## Project: *'24 '31 Students Study Race*
 

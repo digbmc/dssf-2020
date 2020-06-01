@@ -23,11 +23,11 @@ Project overview by Vanessa Davies
 [Slides](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EZMYcvVDa0pGid-DiYQf90gBxhrc9PtVGid3OjvJuheKMQ?e=xfvPWi)
 
 ### On your own
-- [ ] Choose a digital exhibition and example that you like. What do you like about it? How does it present materials? What components does it include?
-- [ ] Watch [How Computers Work](https://www.khanacademy.org/computing/computer-science/how-computers-work2/v/khan-academy-and-codeorg-introducing-how-computers-work) videos and take notes
-- [ ] Digital Competencies reflection
-- [ ] Send Andrea your profile photo and a short bio for DS site
-- [ ] Familiarize yourself with project materials - take notes and develop questions
+- Choose a digital exhibition and example that you like. What do you like about it? How does it present materials? What components does it include?
+- Watch [How Computers Work](https://www.khanacademy.org/computing/computer-science/how-computers-work2/v/khan-academy-and-codeorg-introducing-how-computers-work) videos and take notes
+- Digital Competencies reflection
+- Send Andrea your profile photo and a short bio to appear on the DS website
+- Familiarize yourself with project materials - take notes and develop questions
 
 ---
 ## Tuesday, June 2
