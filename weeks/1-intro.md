@@ -19,15 +19,25 @@ Project overview by Vanessa Davies
 - What concerns do team members have about the project and the summer?
 - How can we maintain a supportive team?
 
-### 2:00 PM — What is Digital Scholarship?
+Microsoft Teams
+
+- [DSSF Channel](https://teams.microsoft.com/l/channel/19%3aeb69325e12e34c7bb25fa935667cbd9a%40thread.skype/DSSF?groupId=f13632d3-cdb4-4e69-b112-38ea83836a0d&tenantId=c94b117b-6163-47fd-93f8-b8001804ae6f) for curriculum-related stuff
+
+- [24-31 Channel](https://teams.microsoft.com/l/channel/19%3a50ec984402d346d6b4c661795db04ca1%40thread.skype/24-31%2520Project?groupId=f13632d3-cdb4-4e69-b112-38ea83836a0d&tenantId=c94b117b-6163-47fd-93f8-b8001804ae6f) for project-related stuff
+
+
+### 2:30 PM — What is Digital Scholarship?
 [Slides](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EZMYcvVDa0pGid-DiYQf90gBxhrc9PtVGid3OjvJuheKMQ?e=xfvPWi)
 
+Choose a digital exhibition and example that you like. What do you like about it? How does it present materials? What components does it include?
+
 ### On your own
-- Choose a digital exhibition and example that you like. What do you like about it? How does it present materials? What components does it include?
+
 - Watch [How Computers Work](https://www.khanacademy.org/computing/computer-science/how-computers-work2/v/khan-academy-and-codeorg-introducing-how-computers-work) videos and take notes
 - Digital Competencies reflection
 - Send Andrea your profile photo and a short bio to appear on the DS website
 - Familiarize yourself with project materials - take notes and develop questions
+
 
 ---
 ## Tuesday, June 2

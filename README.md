@@ -14,7 +14,9 @@ Andrea Samz-Pustol - Digital Scholarship Graduate Assistant
 
 Jenny Spohrer - Director of Educational and Scholarly Technology department
 
-Nathalia Santos - Coordinator of EaST Intern program 
+Nathalia Santos - Coordinator of EaST Intern program
+
+Allison Mills - College archivist and project advisor
 
 
 ## Project: *'24 '31 Students Study Race*
