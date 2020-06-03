@@ -74,9 +74,14 @@ Led by Jenny Spohrer (with Educational Technology interns)
 
 ## Wednesday, June 3
 
-### 10:00 AM - '24 '31 Discussion
+### 9:00 AM - Check-in
+
+Teams calendar
+
+### 10:30 AM - '24 '31 Discussion
 
 Led by Vanessa Davies
+- Teams outlook event
 
 ### 12:00 PM - Lunch
 
@@ -86,21 +91,22 @@ Allison Mills, College Archivist
 
 ### 3:00 PM - On your own
 
-- Draft your SMART goals and post them to Teams
-- Project deliverables - read through
-- Exploratory research // brainstorming project ideas
-- Continue command line work
+1. Research - locate 1-2 resources from the college archives that might have relevant info & post them to teams.
+3. Add your ideas to the project brainstorming document.  
+2. Fill out [questionaire](https://forms.office.com/Pages/ResponsePage.aspx?id=exFLyWNh_UeT-LgAGASub355wZqIlktFq0QAOWKeAm1UN0sxSzZTVU42VVZIUk5IUU5DTFA2WkI5Vy4u)
+2. Reflections on today: what was most interesting to you? What el
+
 
 ---
 
 ## Thursday, June 4
 
-### Morning - Humanities data & digital exhibitions
+### 9:00 - 10:30 - Humanities data & digital exhibitions
 <!--
 - Read Miriam Posner's post - [Humanities Data: A Necessary Contradiction](https://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)
 - [Data Trouble](https://www.youtube.com/watch?v=sW0u1pNQNxc)
 - Comparison: Scalar, Omeka, Wax, Wordpress?
-- Talking through project deliverables?
+
  -->
 ### 12:00 PM - Lunch
 
