@@ -94,7 +94,7 @@ Allison Mills, College Archivist
 1. Research - locate 1-2 resources from the college archives that might have relevant info & post them to teams.
 3. Add your ideas to the project brainstorming document.  
 2. Fill out [questionaire](https://forms.office.com/Pages/ResponsePage.aspx?id=exFLyWNh_UeT-LgAGASub355wZqIlktFq0QAOWKeAm1UN0sxSzZTVU42VVZIUk5IUU5DTFA2WkI5Vy4u)
-2. Reflections on today: what was most interesting to you? What el
+2. Reflections on today: what was most interesting to you? What challenges did you encounter engaging with the archival materials?
 
 
 ---
