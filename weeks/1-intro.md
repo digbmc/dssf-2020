@@ -101,13 +101,35 @@ Allison Mills, College Archivist
 
 ## Thursday, June 4
 
-### 9:00 - 10:30 - Humanities data & digital exhibitions
-<!--
-- Read Miriam Posner's post - [Humanities Data: A Necessary Contradiction](https://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)
-- [Data Trouble](https://www.youtube.com/watch?v=sW0u1pNQNxc)
-- Comparison: Scalar, Omeka, Wax, Wordpress?
+### Priorities today
+- [ ] Choose CMS for our exhibition
+- [ ] Develop the project charter
 
- -->
+### AM: digital exhibition platforms
+- CMS = Content management system
+  - Database for organizing and publishing media & text resources and metadata
+  - Examples: moodle, wordpress, Drupal, grav
+- What kind of CMS do we need?
+  - Open source: can be installed (or is already installed) on the DS server
+  - Customizable: we are able to design and build the right system for our content and project
+  - Support for media metadata
+  - Easy to embed external resources (data viz, maps, etc.)
+  - Multiple user accounts possible
+- Common CMSs  for digital exhibitions
+  - [Omeka](https://omeka.org/)
+    - Tutorial: [Introduction to Omeka](https://omekagym.omeka.net/items/show/521)
+  - [Scalar](https://scalar.me/anvc/scalar/)
+    - Tutorial: [Digital Exhibitions with Scalar](bit.ly/arch-399)
+  - [Wordpress](https://wordpress.org/)
+- Alternative to a CMS: [Wax](https://minicomp.github.io/wax/about/), a static website generator designed for exhibits
+- What will we do with our platform
+  1. Add media resources (documents, images, audio) and metadata
+  2. Organize media resources into 'collections', galleries, and other interactive displays
+  3. Embed data visualizations, maps, and other external content
+  4. Build text essays that feature media resources
+  5. Customize the design of our site (using html, css, and javascript)
+
+
 ### 12:00 PM - Lunch
 
 ### 1:30 PM - Project Management Workshop
