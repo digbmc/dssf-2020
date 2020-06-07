@@ -34,6 +34,12 @@ Allison Mills - College archivist and project advisor
 
 ### Week 2 (June 8-12) [Web design and development](weeks/2-webdev.md)
 
+- Principles of Web Design 
+- HTML
+- CSS
+- Domain of One's Own
+- Web Accessibility
+
 ### Week 3 (June 15-19) [Digital archives & exhibitions]()
 
 ### Week 4 (June 22-26) [Data management & visualization]()
