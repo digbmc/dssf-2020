@@ -21,66 +21,60 @@ June 8-12
 ### Afternoon
 
 - Project work based on work plan
-
-- Record your project ideas
+- Record your project ideas in shared documents
 
 ## Tuesday, June 9
 
 ### Morning
 
 - Watch Khan Academy [How the Internet works](https://www.khanacademy.org/computing/computer-science/computers-and-internet-code-org/internet-works-intro/v/what-is-the-internet) videos & take notes
+- Create your personal log: copy the dssf log template (dssf/Reflections/dssf-log-template.docx) and add your name to the filename. Start a new entry for today.
 - Get ready to plan your own personal website:
   - What will you call it? What content will it include?
   - Gather 1-2 images to use (anything without copyright restrictions - personal photos, [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page), [Unsplash](https://unsplash.com/))
   - Optional: find and share some examples of well-designed websites
-  - Pick your subdomain: **alice**.digital.brynmawr.edu
 
 
 ### 10:00 AM Web Design Workshop
 
-- Slides
-
-Activity:
-
-1. Use command line to navigate to the folder where you're keeping your dssf files  `cd`
-2. Create a new directory (folder) for your new site `mkdir my-site`
-3. Create a document in the directory and name it 'index.html' `touch my-site/index.html`
-4. Create a css document in the same place `touch my-site/style.css`
-5. Open the project in Atom
-   Try `atom my-site/index.html` - if that doesn't work, open Atom --> File --> Add Project Folder
-6. In Atom, type html and hit tab: voila! You have a web page!
-7. Add some elements and text. Save it, and open index.html with a web browser. You should see your website.
-8. Link your CSS: in the 'head' section of index.html, type this:
-
-```html
-<link rel="stylesheet" type="text/css" href="style.css">
-```
-
-9. Now you're ready to build and style your website!
+- [Slides](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EQdSwYCuki1Hn9ePc3EmiFQB0e1YiNg2r1eJ4-BuE3PxTw?e=niTwG4)
+- [Activity instructions](/lessons/webdev.md)
 
 ### On your own
 
-- Develop your personal website using html and css.
+- Develop your personal website. Include images, a menu, links, and whatever else you desire. Style it using CSS.
 - LinkedIn Learning: [HTML Essential Training](https://www.linkedin.com/learning/html-essential-training-4/) (2h 45m)
 - LinkedIn Learning: [CSS Essential Training](https://www.linkedin.com/learning/css-essential-training-3/) (4h 28m)
 
 ## Wednesday, June 10
 
-- Wireframing Omeka Site 
+### On your own
+1. Draw a wireframe design for the landing page of the 24-31 site.
+2. Create a content outline of other pages of the 24-31 project. Refer to Vanessa's outline /development/outline-web-info-vd.docx
 
 ### 11:00 AM Project Meeting
 
+Note-taker: Elizabeth
+
+1. Review & discuss wireframe designs
+2. Key roles for 24-31 project
+3. Plan for getting started with Omeka
 
 ## Thursday, June 11
 
-Continue work on personal websites
+### On your Own
+- Choose your subdomain: **alice**.digital.brynmawr.edu
+- Sign up for a Domain of One's Own account at www.digital.brynmawr.edu
+- Continue work on your personal website and html/css tutorials 
 
-Domain of One's Own
+### 10:00 Domain of One's Own Workshop
 
-Web Accessibility
+
 
 ## Friday, June 12
 
-11:00 AM Project Meeting
+### 11:00 AM Project Meeting
 
-1:00 PM Archives
+### 1:00 PM Archives - Allison Mills
+
+- Readings (see Teams)
