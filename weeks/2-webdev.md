@@ -38,13 +38,24 @@ June 8-12
 ### 10:00 AM Web Design Workshop
 
 - [Slides](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EQdSwYCuki1Hn9ePc3EmiFQB0e1YiNg2r1eJ4-BuE3PxTw?e=niTwG4)
-- [Activity instructions](/lessons/webdev.md)
+- [Activity instructions](lessons/webdev.md)
 
 ### On your own
 
-- Develop your personal website. Include images, a menu, links, and whatever else you desire. Style it using CSS.
-- LinkedIn Learning: [HTML Essential Training](https://www.linkedin.com/learning/html-essential-training-4/) (2h 45m)
-- LinkedIn Learning: [CSS Essential Training](https://www.linkedin.com/learning/css-essential-training-3/) (4h 28m)
+Develop your personal website. Include images, a menu, links, and whatever else you desire. Style it using CSS.
+
+Resources:
+
+- Learning HTML
+  - Self-paced interactive [HTML Tutorial](https://www.w3schools.com/html/) from w3schools.com
+  - LinkedIn Learning: [HTML Essential Training](https://www.linkedin.com/learning/html-essential-training-4/) (2h 45m)
+- Learning CSS
+    - [CSS Diner](https://flukeout.github.io/)
+    - Self-paced interactive [CSS tutorial](https://www.w3schools.com/css/) from w3schools.com
+  - LinkedIn Learning: [CSS Essential Training](https://www.linkedin.com/learning/css-essential-training-3/) (4h 28m)
+- Templates and models
+  - https://html5up.net/
+  - http://www.csszengarden.com/
 
 ## Wednesday, June 10
 
@@ -65,7 +76,7 @@ Note-taker: Elizabeth
 ### On your Own
 - Choose your subdomain: **alice**.digital.brynmawr.edu
 - Sign up for a Domain of One's Own account at www.digital.brynmawr.edu
-- Continue work on your personal website and html/css tutorials 
+- Continue work on your personal website and html/css tutorials
 
 ### 10:00 Domain of One's Own Workshop
 

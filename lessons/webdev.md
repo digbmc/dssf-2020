@@ -21,10 +21,18 @@
 ```
 9. Now you're ready to build and style your website!
 
-### On your own
-- Develop your personal website. Include images, a menu, links, and whatever else you desire. Style it using CSS.
-- LinkedIn Learning: [HTML Essential Training](https://www.linkedin.com/learning/html-essential-training-4/) (2h 45m)
-- LinkedIn Learning: [CSS Essential Training](https://www.linkedin.com/learning/css-essential-training-3/) (4h 28m)
+### Resources:
+
+- Learning HTML
+  - Self-paced interactive [HTML Tutorial](https://www.w3schools.com/html/) from w3schools.com
+  - LinkedIn Learning: [HTML Essential Training](https://www.linkedin.com/learning/html-essential-training-4/) (2h 45m)
+- Learning CSS
+  - [CSS Diner](https://flukeout.github.io/)
+  - Self-paced interactive [CSS tutorial](https://www.w3schools.com/css/) from w3schools.com
+  - LinkedIn Learning: [CSS Essential Training](https://www.linkedin.com/learning/css-essential-training-3/) (4h 28m)
+  - Templates and models
+    - https://html5up.net/
+    - http://www.csszengarden.com/
 
 ## Domain of One's Own
 

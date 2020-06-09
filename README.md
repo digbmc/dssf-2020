@@ -8,9 +8,9 @@ The Digital Scholarship Summer Fellows program is a paid, full-time summer inter
 
 Vanessa Davies - Research project director
 
-Molly Kuchler - Digital Scholarship Graduate Assistant
+[Molly Kuchler](mailto:mkuchler@brynmawr.edu) - Digital Scholarship Graduate Assistant
 
-Andrea Samz-Pustol - Digital Scholarship Graduate Assistant
+[Andrea Samz-Pustol](mailto:asamzpusto@brynmawr.edu) - Digital Scholarship Graduate Assistant
 
 Jenny Spohrer - Director of Educational and Scholarly Technology department
 
@@ -34,7 +34,7 @@ Allison Mills - College archivist and project advisor
 
 ### Week 2 (June 8-12) [Web design and development](weeks/2-webdev.md)
 
-- Principles of Web Design 
+- Principles of Web Design
 - HTML
 - CSS
 - Domain of One's Own
