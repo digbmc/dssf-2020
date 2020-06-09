@@ -38,7 +38,7 @@ June 8-12
 ### 10:00 AM Web Design Workshop
 
 - [Slides](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EQdSwYCuki1Hn9ePc3EmiFQB0e1YiNg2r1eJ4-BuE3PxTw?e=niTwG4)
-- [Activity instructions](lessons/webdev.md)
+- [Activity](../lessons/webdev.md) [instructions](../lessons/webdev)
 
 ### On your own
 
