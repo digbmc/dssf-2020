@@ -15,22 +15,25 @@
 - Domain of One's Own
 - Web Accessibility
 
-## Week 3 (June 15-19) [Digital archives & exhibitions]()
+## Week 3 (June 15-19) [Digital archives & exhibitions](weeks/3-exhibitions.md)
 
 - Archive theory
-- Digital exhibits
-- Metadata
+- Metadata & Linked Open Data
+- Digital surrogates and cultural heritage representation
 
-## Week 4 (June 22-26) [Data management & visualization]()
+## Week 4 (June 22-26) [Data management & visualization]
 
-## Week 5 (June 29-July 3) [Mapping and geospatial data]()
+- Data Cleaning with Open Refine
+- Humanities data
 
-## Week 6 (July 6-10) [Text analysis]()
+## Week 5 (June 29-July 3) [Mapping and geospatial data]
 
-## Week 7 (July 15-19) [Visual media & design]()
+## Week 6 (July 6-10) [Text analysis]
 
-## Week 8 (July 22-26) [Sustainability and preservation]()
+## Week 7 (July 15-19) [Visual media & design]
 
-## Week 9 (July 29-August 1) [Critical making & immersive DS]()
+## Week 8 (July 22-26) [Sustainability and preservation]
 
-## Week 10 (August 3-7) [Project wrap-up]()
+## Week 9 (July 29-August 1) [Critical making & immersive DS]
+
+## Week 10 (August 3-7) [Project wrap-up]

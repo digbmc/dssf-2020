@@ -8,6 +8,14 @@
 
 Duke Wired Lab [video tutorial](https://www.youtube.com/watch?v=tii2aL7cMBE&list=PL4pAvjVJyuICiJwNw-MVFroGyE13lUhv4) and [text tutorial](https://docs.google.com/document/d/1kufh1so0Ug_5ILs2g-spp5BaGlVPQdhUsMdfHicmXpg/edit)
 
+[Omeka Classic themes](https://omeka.org/classic/themes/)
+
+[Omeka Classic Documentation](https://omeka.org/classic/docs/)
+
 ### General
 
 Research guide: [digital exhibition platforms](https://guides.nyu.edu/teachdh)
+
+### Metadata
+
+- [Dublin Core Metadata Initiative](https://www.dublincore.org/specifications/dublin-core/dces/)

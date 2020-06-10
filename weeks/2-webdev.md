@@ -70,22 +70,40 @@ Note-taker: Elizabeth
 1. Review & discuss wireframe designs
 2. Key roles for 24-31 project
 3. Plan for getting started with Omeka
+4. Curating and sourcing content
 
 ## Thursday, June 11
 
-### On your Own
+### On your own
 - Choose your subdomain: **alice**.digital.brynmawr.edu
 - Sign up for a Domain of One's Own account at www.digital.brynmawr.edu
 - Continue work on your personal website and html/css tutorials
 
 ### 10:00 Domain of One's Own Workshop
 
+- Slides: http://bit.ly/dooo-10-18
+
+### On your own
+1. Web Accessibility tutorial: view the [slides](http://bit.ly/a11y-10-17) and go through the accessibility checklist for your site
+2. Learn more about responsive design: [Media Query Guide](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
+3. Continue working on your site. At the end of the day, uploaded your most recent draft to your file manager and share the link to teams
+4. Read to prepare for the Archives discussion on Friday:
+  - [How do archivists organize collections?](https://peelarchivesblog.com/2015/08/26/how-do-archivists-organize-collections/)
+  - Terry Cook, "What is Past is Prologue" (Teams/dssf/readings)
+5. Update your DSSF Log
 
 
 ## Friday, June 12
 
 ### 11:00 AM Project Meeting
+1. Roles & responsibilities
+2. Wireframes and Omeka themes
+3. Research tasks
 
 ### 1:00 PM Archives - Allison Mills
 
-- Readings (see Teams)
+- Discussion of readings (above)
+
+### On your own
+- Finish object tracking spreadsheet
+- Create an action plan for your role. What do you need to do? What will you need to learn? What kind of support will you require from other team members?
