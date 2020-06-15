@@ -2,6 +2,8 @@
 
 *Digital exhibitions*
 
+![A woman holding an oddly plumed duck](https://tile.loc.gov/storage-services/service/pnp/ppmsca/40900/40935r.jpg)
+
 [Monday, June 15](#monday-june-15)
 
 [Tuesday, June 16](#tuesday-june-16)
@@ -17,7 +19,7 @@
 
 ### Project work
 
-Create a task list for your assigned role
+Create a work plan for your assigned role
 - What will you be responsible for?
 - What are your values and objectives for this role?
 - What questions do you have for the organizers?
@@ -36,12 +38,26 @@ Create a task list for your assigned role
 - Review roles & work on task lists
 
 ## Tuesday, June 16
+Digital exhibitions, metadata, copyright
 
 ### On your own
-- Week 3 Reflections
-- Websites show & tell
+
+- Read about and explore the Colored Conventions project: https://coloredconventions.org/
+  - Watch video introduction
+  - Read blog series on how they created it: https://coloredconventions.org/news/website-wednesdays/
+  - Read exhibitis and browse items
+- Read about and explore [QUEER.ARCHIVE.WORK 2](http://blog.archive.org/2019/01/25/queer-archive-work-2-1923-internet-archive-edition/) by Paul Soulellis
+- Participatory projects:
+  - Beyond words - transcribe something or correct something: http://beyondwords.labs.loc.gov/#/
+  - [Citizen DJ (Brian Foo)](https://citizen-dj.labs.loc.gov/) - atch video intro or test out the remixer (currently in beta)
 
 ### 10:15 Digital Exhibitions
+
+- [Slides](https://docs.google.com/presentation/d/1kFuoObGbrydmmgLBG68V5rordGR7FbdhrFQeKrAVVnw/edit?usp=sharing)
+
+### Afternoon
+- Complete your accessibility checklist for your website
+- Finish your Timeline/Storymap and embed them on your websites - share to Teams
 
 ## Wednesday, June 17
 

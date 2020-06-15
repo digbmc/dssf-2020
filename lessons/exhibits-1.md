@@ -18,4 +18,34 @@ Research guide: [digital exhibition platforms](https://guides.nyu.edu/teachdh)
 
 ### Metadata
 
-- [Dublin Core Metadata Initiative](https://www.dublincore.org/specifications/dublin-core/dces/)
+Fields in [Dublin Core Metadata Initiative](https://www.dublincore.org/specifications/dublin-core/dces/)
+
+- Title - A name given to the resource
+
+- Subject - The topic of the resource
+
+- Description - An account of the resource
+
+- Creator - An entity primarily responsible for making the resource
+
+- Source - A related resource from which the described resource is derived
+
+- Publisher - An entity responsible for making the resource available
+
+- Date - A point or period of time associated with an event in the lifecycle of the resource
+
+- Contributor - An entity responsible for making contributions to the resource
+
+- Rights - Information about rights held in and over the resource
+
+- Relation - A related resource
+
+- Format - The file format, physical medium, or dimensions of the resource
+
+- Language - A language of the resource
+
+- Type - The nature or genre of the resource
+
+- Identifier - An unambiguous reference to the resource within a given context
+
+- Coverage - The spatial or temporal topic of the resource, the spatial applicability of the resource, or the jurisdiction under which the resource is relevant
