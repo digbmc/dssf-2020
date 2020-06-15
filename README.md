@@ -40,7 +40,7 @@ Allison Mills - College archivist and project advisor
 - Domain of One's Own
 - Web Accessibility
 
-### Week 3 (June 15-19) [Digital archives & exhibitions]()
+### Week 3 (June 15-19) [Digital archives & exhibitions](weeks/3-exhibitions.md)
 
 ### Week 4 (June 22-26) [Data management & visualization]()
 
