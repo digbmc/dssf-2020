@@ -8,11 +8,11 @@
 
 [Tuesday, June 16](#tuesday-june-16)
 
-[Wednesday](#wednesday-june-17)
+[Wednesday, June 17](#wednesday-june-17)
 
-[Thursday](#thursday-june-18)
+[Thursday, June 18](#thursday-june-18)
 
-[Friday](#friday-june-19)
+[Friday, June 19](#friday-june-19)
 
 
 ## Monday, June 15
@@ -62,9 +62,33 @@ Digital exhibitions, metadata, copyright
 
 ## Wednesday, June 17
 
-### 11:00 24-31 Team Meeting
+### Check-ins on Teams (meet now)
+
+9:00 - Everyone
+
+9:20 - Cindy
+
+9:40 - Elizabeth
+
+10:00 - Helena
+
+10:20 - Peyton
+
+10:40 - Tino
+
+### 11:00 24-31 Project Meeting
+- Updates from each project role
+- Progress towards goals/deliverables
+- Mini-projects & roles
 
 ## Thursday, June 18
+
+
+
+### On your own
+- Getting started with Javascript
+- Listen to Dream lab podcast episode: [Dot Porter on digital surrogates](https://soundcloud.com/price-lab)
+- Read
 
 ## Friday, June 19
 
@@ -75,4 +99,4 @@ Digital exhibitions, metadata, copyright
 - [ ] Read Kim Gallon's ["Making a Case for the Black Digital Humanities"](https://dhdebates.gc.cuny.edu/read/untitled/section/fa10e2e1-0c3d-4519-a958-d823aac989eb)
 -->
 
-[<<< Last week](/2-webdev.md) [Next week >>>]
+[<<< Last week](/2-webdev.md) [Next week >>>](/4-data.md)

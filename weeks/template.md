@@ -1,27 +1,31 @@
-# Week X: Subject
+# Week X: June 22-26
 
-*Dates*
+*Data cleaning & visualization*
 
-[Monday](#monday)
+[Monday, June 22](#monday-june-22)
 
-[Tuesday](#tuesday)
+[Tuesday, June 23](#tuesday-june-23)
 
-[Wednesday](#wednesday)
+[Wednesday, June 24](#wednesday-june-24)
 
-[Thursday](#thursday)
+[Thursday, June 25](#thursday-june-25)
 
-[Friday](#friday)
+[Friday, June 26](#friday-june-26)
 
-## Monday
+## Monday, June 22
 
+### 11:00 Project meeting
 
+## Tuesday, June 23
 
-## Tuesday
+## Wednesday, June 24
 
-## Wednesday
+### 11:00 Project meeting
 
-## Thursday
+## Thursday, June 25
 
-## Friday
+## Friday, June 26
+
+### 11:00 Project meeting
 
 [<<< Last week](/2-webdev.md) [Next week >>>]

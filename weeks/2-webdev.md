@@ -107,3 +107,5 @@ Note-taker: Elizabeth
 ### On your own
 - Finish object tracking spreadsheet
 - Create an action plan for your role. What do you need to do? What will you need to learn? What kind of support will you require from other team members?
+
+[<<< Last week](/1-intro.md) [Next week >>>](/3-exhibitions.md)

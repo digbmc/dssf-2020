@@ -27,26 +27,11 @@ Allison Mills - College archivist and project advisor
 
 ### Week 1 (June 1-5) [Introduction to Digital Scholarship](weeks/1-intro.md)
 
-- Intro to DS and Computational Thinking
-- Intro to College Histories and BMC Archives
-- Design Thinking
-- Project Management
-
 ### Week 2 (June 8-12) [Web design and development](weeks/2-webdev.md)
-
-- Principles of Web Design
-- HTML
-- CSS
-- Domain of One's Own
-- Web Accessibility
 
 ### Week 3 (June 15-19) [Digital archives & exhibitions](weeks/3-exhibitions.md)
 
-- Archive theory
-- Metadata & linked open data
-- Copyright and public domain 
-
-### Week 4 (June 22-26) [Data management & visualization]()
+### Week 4 (June 22-26) [Data management & visualization](weeks/4-data.md)
 
 ### Week 5 (June 29-July 3) [Mapping and geospatial data]()
 

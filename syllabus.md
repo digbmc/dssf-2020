@@ -19,12 +19,13 @@
 
 - Archive theory
 - Metadata & Linked Open Data
-- Digital surrogates and cultural heritage representation
+- Copyright and the public domain
 
-## Week 4 (June 22-26) [Data management & visualization]
+## Week 4 (June 22-26) [Data management & visualization](weeks/4-data.md)
 
 - Data Cleaning with Open Refine
 - Humanities data
+- Data visualization
 
 ## Week 5 (June 29-July 3) [Mapping and geospatial data]
 
