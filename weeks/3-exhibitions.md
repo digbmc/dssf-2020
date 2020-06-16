@@ -41,19 +41,20 @@ Create a work plan for your assigned role
 Digital exhibitions, metadata, copyright
 
 ### On your own
-
+- **Submit your Timesheets to [Molly](mailto:mkuchler@brynmawr.edu)**
 - Read about and explore the Colored Conventions project: https://coloredconventions.org/
   - Watch video introduction
   - Read blog series on how they created it: https://coloredconventions.org/news/website-wednesdays/
   - Read exhibitis and browse items
 - Read about and explore [QUEER.ARCHIVE.WORK 2](http://blog.archive.org/2019/01/25/queer-archive-work-2-1923-internet-archive-edition/) by Paul Soulellis
-- Participatory projects:
+- Optional: check out LC labs participatory projects:
   - Beyond words - transcribe something or correct something: http://beyondwords.labs.loc.gov/#/
-  - [Citizen DJ (Brian Foo)](https://citizen-dj.labs.loc.gov/) - atch video intro or test out the remixer (currently in beta)
+  - [Citizen DJ (Brian Foo)](https://citizen-dj.labs.loc.gov/) - watch video intro or test out the remixer (currently in beta)
 
 ### 10:15 Digital Exhibitions
 
 - [Slides](https://docs.google.com/presentation/d/1kFuoObGbrydmmgLBG68V5rordGR7FbdhrFQeKrAVVnw/edit?usp=sharing)
+- [Resources & activity instructions](../lessons/exhibits-1.md)
 
 ### Afternoon
 - Complete your accessibility checklist for your website

@@ -42,6 +42,10 @@ Allison Mills - College archivist and project advisor
 
 ### Week 3 (June 15-19) [Digital archives & exhibitions](weeks/3-exhibitions.md)
 
+- Archive theory
+- Metadata & linked open data
+- Copyright and public domain 
+
 ### Week 4 (June 22-26) [Data management & visualization]()
 
 ### Week 5 (June 29-July 3) [Mapping and geospatial data]()
