@@ -2,17 +2,10 @@
 
 *Digital exhibitions*
 
+[Monday, June 15](#monday-june-15) | [Tuesday, June 16](#tuesday-june-16) | [Wednesday, June 17](#wednesday-june-17) | [Thursday, June 18](#thursday-june-18) | [Friday, June 19](#friday-june-19)
+
+
 ![A woman holding an oddly plumed duck](https://tile.loc.gov/storage-services/service/pnp/ppmsca/40900/40935r.jpg)
-
-[Monday, June 15](#monday-june-15)
-
-[Tuesday, June 16](#tuesday-june-16)
-
-[Wednesday, June 17](#wednesday-june-17)
-
-[Thursday, June 18](#thursday-june-18)
-
-[Friday, June 19](#friday-june-19)
 
 
 ## Monday, June 15
