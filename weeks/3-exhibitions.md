@@ -82,11 +82,14 @@ Digital exhibitions, metadata, copyright
 ### On your own
 - Complete the "Introduction to Javascript" tutorial series, message Molly with questions or issues.
 - Listen to Dream lab podcast episode: [Dot Porter on digital surrogates](https://soundcloud.com/price-lab)
-- Read
+- Read Safiya Noble, ["Towards a Critical Black Digital Humanities"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/5aafe7fe-db7e-4ec1-935f-09d8028a2687#ch02), *Debates in the Digital Humanities 2019* (CUNY 2019); Matthew K. Gold and Lauren Klein, Eds.
+
 
 ### 11:30 am JS Learning Community summary meeting.
 
 ## Friday, June 19
+
+### 9:30 Peyton - presentation on NAA
 
 ### 11:00 24-31 Team Meeting
 
