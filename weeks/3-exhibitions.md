@@ -1,6 +1,6 @@
 # Week 3: June 15 - 19
 
-*Digital exhibitions*
+## *Digital exhibitions*
 
 [Monday, June 15](#monday-june-15) | [Tuesday, June 16](#tuesday-june-16) | [Wednesday, June 17](#wednesday-june-17) | [Thursday, June 18](#thursday-june-18) | [Friday, June 19](#friday-june-19)
 
@@ -72,18 +72,18 @@ Digital exhibitions, metadata, copyright
 ### 11:00 24-31 Project Meeting
 - Updates from each project role
 - Progress towards goals/deliverables
-- Mini-projects & roles
+- *Mini-projects & roles* - moved to Friday
 
 ## Thursday, June 18
 
 
-
 ### On your own
-- Getting started with Javascript
 - Listen to Dream lab podcast episode: [Dot Porter on digital surrogates](https://soundcloud.com/price-lab)
-- Read
+- Read Safiya Noble, ["Towards a Critical Black Digital Humanities"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/5aafe7fe-db7e-4ec1-935f-09d8028a2687#ch02), *Debates in the Digital Humanities 2019* (CUNY 2019); Matthew K. Gold and Lauren Klein, Eds.
 
 ## Friday, June 19
+
+### 10:00 Peyton - presentation on NAA
 
 ### 11:00 24-31 Team Meeting
 
