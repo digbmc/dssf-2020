@@ -2,24 +2,34 @@
 
 *Data cleaning & visualization*
 
-[Monday](#monday-june-22) | [Tuesday](#tuesday-june-23) | [Wednesday](#wednesday-june-24) | [Thursday](#thursday-june-25) | [Friday](#friday-june-26)
+[Monday](#monday-june-22) // [Tuesday](#tuesday-june-23) // [Wednesday](#wednesday-june-24) // [Thursday](#thursday-june-25) // [Friday](#friday-june-26)
 
 ## Monday, June 22
 
-### 11:00 Project meeting
+### 9:00 Project meeting
+
+### 11:00 - 1:00 Lafayette College presentations
 
 ---
 
 ## Tuesday, June 23
 
-### Data cleaning
+### 10:00 Data cleaning
 - [Data cleaning with OpenRefine workshop](https://github.com/tri-cods/tidy-data)
+
+### On your own
+DH Project profile: [Dunham's Data](https://dunhamsdata.org)
+  - Look at DV videos: https://dunhamsdata.org/blog/work-in-progress-videos-1
+  - Read blog post, ["Datasets are Research"](https://dunhamsdata.org/blog/datasets-are-research)
+  - Write a reflection about it.
 
 ---
 
 ## Wednesday, June 24
 
-### 11:00 Project meeting
+### 9:00 Photoshop - Andrea
+
+### 11:00 Project meeting OR Lafayette college presentations
 
 ---
 
