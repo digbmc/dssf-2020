@@ -6,9 +6,10 @@
 
 ## Monday, June 22
 
-### 9:00 Project meeting
+### 9:00 Project meeting (*note time change*)
 
-### 11:00 - 1:00 Lafayette College presentations
+### 11:00-1:00 Lafayette College DH Summer Program presentations (optional)
+- Register here: https://docs.google.com/forms/d/e/1FAIpQLSejOMNB6NU05XxztOBf2N0XGsAANQnKMz9jWm6hVVBG801ugQ/viewform
 
 ---
 
