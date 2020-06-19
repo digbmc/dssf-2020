@@ -99,6 +99,8 @@ Digital exhibitions, metadata, copyright
 - Research updates
 - Mini projects
 
+### 1:00pm Black DH discussion
+
 <!--
 ## Priorities
 - [ ] Read Kim Gallon's ["Making a Case for the Black Digital Humanities"](https://dhdebates.gc.cuny.edu/read/untitled/section/fa10e2e1-0c3d-4519-a958-d823aac989eb)
