@@ -92,6 +92,11 @@ Digital exhibitions, metadata, copyright
 ### 9:30 Peyton - presentation on NAA
 
 ### 11:00 24-31 Team Meeting
+- Juneteenth - Black DH discussion in afternoon?
+- Lafayette College DH Summer Program next week (schedule in DSSF Teams chat)
+- Archiving Protests, Protecting Archivists Zoom session (sold out)
+- Research updates
+- Mini projects
 
 <!--
 ## Priorities
