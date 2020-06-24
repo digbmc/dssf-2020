@@ -14,9 +14,6 @@
 
 ## 9:00 Palladio Workshop (Molly)
 
-### Data cleaning
-- [Data cleaning with OpenRefine workshop](https://github.com/tri-cods/tidy-data)
-
 ## Wednesday, July 1
 
 ## 9:00 ArcGIS Workshop (Elizabeth)
