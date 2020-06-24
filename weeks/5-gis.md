@@ -9,6 +9,7 @@
 ### 9:00 GIS & Google Earth Workshop (Andrea)
 
 ### 11:00 Project meeting
+*Note taker:_____*
 
 ## Tuesday, June 30
 
@@ -19,6 +20,7 @@
 ### 9:00 ArcGIS Workshop (Elizabeth)
 
 ### 11:00 Project meeting
+*Note taker:_____*
 
 ## Thursday, July 2
 
