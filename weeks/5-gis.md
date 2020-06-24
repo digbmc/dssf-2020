@@ -6,6 +6,8 @@
 
 ## Monday, June 29
 
+## 9:00 GIS & Google Earth Workshop
+
 ### 11:00 Project meeting
 
 ## Tuesday, June 30
@@ -14,6 +16,8 @@
 - [Data cleaning with OpenRefine workshop](https://github.com/tri-cods/tidy-data)
 
 ## Wednesday, July 1
+
+## ArcGIS Workshop (Elizabeth)
 
 ### 11:00 Project meeting
 
