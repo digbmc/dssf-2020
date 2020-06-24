@@ -1,6 +1,6 @@
 # Week 5: June 29-July 2
 
-*Data cleaning & visualization*
+*GIS (Maps!)*
 
 [Monday](#monday-june-29) | [Tuesday](#tuesday-june-30) | [Wednesday](#wednesday-july-1) | [Thursday](#thursday-july-2) | [Friday](#friday-june-26)
 
