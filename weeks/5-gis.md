@@ -6,23 +6,23 @@
 
 ## Monday, June 29
 
-## 9:00 GIS & Google Earth Workshop (Andrea)
+### 9:00 GIS & Google Earth Workshop (Andrea)
 
 ### 11:00 Project meeting
 
 ## Tuesday, June 30
 
-## 9:00 Palladio Workshop (Molly)
+### 9:00 Palladio Workshop (Molly)
 
 ## Wednesday, July 1
 
-## 9:00 ArcGIS Workshop (Elizabeth)
+### 9:00 ArcGIS Workshop (Elizabeth)
 
 ### 11:00 Project meeting
 
 ## Thursday, July 2
 
-## 9:00 JavaScript (Molly)
+### 9:00 JavaScript (Molly)
 
 ## Friday, July 3 - *Holiday - no work*
 
