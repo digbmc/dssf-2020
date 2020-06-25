@@ -1,6 +1,6 @@
 # Week 5: June 29-July 2
 
-*Data cleaning & visualization*
+*GIS (Maps!)*
 
 [Monday](#monday-june-29) // [Tuesday](#tuesday-june-30) // [Wednesday](#wednesday-july-1) // [Thursday](#thursday-july-2) // *Friday is a holiday*
 
@@ -9,6 +9,7 @@
 ### 9:00 GIS basics and Google Earth - Andrea
 
 ### 11:00 Project meeting
+*Note taker:_____*
 
 ## Tuesday, June 30
 
@@ -19,8 +20,11 @@
 ### 9:00 Elizabeth ArcGIS demo
 
 ### 11:00 Project meeting
+*Note taker:_____*
 
 ## Thursday, July 2
+
+### 9:00 JavaScript (Molly)
 
 ## Friday, July 3 - *Holiday - no work*
 
