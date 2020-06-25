@@ -19,11 +19,14 @@
 - [Data cleaning with OpenRefine workshop](https://github.com/tri-cods/tidy-data)
 
 ### On your own
-DH Project profile: [Dunham's Data](https://dunhamsdata.org)
+- DH Project profile: [Dunham's Data](https://dunhamsdata.org)
   - Look at DV videos: https://dunhamsdata.org/blog/work-in-progress-videos-1
   - Read blog post, ["Datasets are Research"](https://dunhamsdata.org/blog/datasets-are-research)
   - Write a reflection about it.
-
+- Find a dataset you'd like to explore this week!
+- Fun data viz resources:
+  - [The Pudding](https://pudding.cool/) - data viz essays. See also their blog post, ["Working with Data"](https://pudding.cool/)
+  - [Makeover Monday](https://www.makeovermonday.co.uk/) -- data viz makeovers!
 ---
 
 ## Wednesday, June 24
@@ -38,7 +41,10 @@ DH Project profile: [Dunham's Data](https://dunhamsdata.org)
 
 ### AM - Javascript
 
-### PM - Project work
+### PM - Data Viz
+
+- Instructions [here](../lessons/data)
+
 ---
 
 ## Friday, June 26

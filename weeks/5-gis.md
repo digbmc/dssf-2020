@@ -2,18 +2,21 @@
 
 *Data cleaning & visualization*
 
-[Monday](#monday-june-29) | [Tuesday](#tuesday-june-30) | [Wednesday](#wednesday-july-1) | [Thursday](#thursday-july-2) | [Friday](#friday-june-26)
+[Monday](#monday-june-29) // [Tuesday](#tuesday-june-30) // [Wednesday](#wednesday-july-1) // [Thursday](#thursday-july-2) // *Friday is a holiday*
 
 ## Monday, June 29
+
+### 9:00 GIS basics and Google Earth - Andrea
 
 ### 11:00 Project meeting
 
 ## Tuesday, June 30
 
-### Data cleaning
-- [Data cleaning with OpenRefine workshop](https://github.com/tri-cods/tidy-data)
+- Timesheets due to Molly by 12:00 AM
 
 ## Wednesday, July 1
+
+### 9:00 Elizabeth ArcGIS demo
 
 ### 11:00 Project meeting
 
