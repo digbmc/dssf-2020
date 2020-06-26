@@ -9,7 +9,7 @@
 ### 9:00 GIS basics and Google Earth - Andrea
 
 ### 11:00 Project meeting
-*Note taker:Cindy*
+*Note taker: Cindy*
 
 ## Tuesday, June 30
 
