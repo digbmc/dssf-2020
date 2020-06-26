@@ -9,7 +9,7 @@
 ### 9:00 GIS basics and Google Earth - Andrea
 
 ### 11:00 Project meeting
-*Note taker:_____*
+*Note taker:Cindy*
 
 ## Tuesday, June 30
 
@@ -20,7 +20,7 @@
 ### 9:00 Elizabeth ArcGIS demo
 
 ### 11:00 Project meeting
-*Note taker:_____*
+*Note taker: Elizabeth*
 
 ## Thursday, July 2
 
