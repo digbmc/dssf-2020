@@ -27,7 +27,10 @@
 - Humanities data
 - Data visualization
 
-## Week 5 (June 29-July 3) [Mapping and geospatial data]
+## Week 5 (June 29-July 3) [Mapping and geospatial data](weeks/5-gis.md)
+- Google Earth
+- Palladio
+- GIS data
 
 ## Week 6 (July 6-10) [Text analysis]
 

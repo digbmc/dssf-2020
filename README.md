@@ -33,14 +33,14 @@ Allison Mills - College archivist and project advisor
 
 ### Week 4 (June 22-26) [Data management & visualization](weeks/4-data.md)
 
-### Week 5 (June 29-July 3) [Mapping and geospatial data]()
+### Week 5 (June 29-July 3) [Mapping and geospatial data](weeks/5-gis.md)
 
-### Week 6 (July 6-10) [Text analysis]()
+### Week 6 (July 6-10) [Text analysis]
 
-### Week 7 (July 15-19) [Visual media & design]()
+### Week 7 (July 15-19) [Visual media & design]
 
-### Week 8 (July 22-26) [Sustainability and preservation]()
+### Week 8 (July 22-26) [Sustainability and preservation]
 
-### Week 9 (July 29-August 1) [Critical making & immersive DS]()
+### Week 9 (July 29-August 1) [Critical making & immersive DS]
 
-### Week 10 (August 3-7) [Project wrap-up]()
+### Week 10 (August 3-7) [Project wrap-up]

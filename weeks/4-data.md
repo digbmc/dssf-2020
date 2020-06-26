@@ -27,6 +27,7 @@
 - Fun data viz resources:
   - [The Pudding](https://pudding.cool/) - data viz essays. See also their blog post, ["Working with Data"](https://pudding.cool/)
   - [Makeover Monday](https://www.makeovermonday.co.uk/) -- data viz makeovers!
+
 ---
 
 ## Wednesday, June 24
@@ -39,7 +40,7 @@
 
 ## Thursday, June 25
 
-### AM - Javascript
+### AM - Javascript - Molly
 
 ### PM - Data Viz
 
@@ -50,5 +51,11 @@
 ## Friday, June 26
 
 ### 11:00 Project meeting
+Note-taker: Vanessa
 
-[<<< Last week](/3-exhibitions.md) [Next week >>>](/4-gis.md)
+Agenda:
+1. This week's Yays!
+2.
+
+
+[<<< Last week](/3-exhibitions.md) [Next week >>>](/5-gis.md)

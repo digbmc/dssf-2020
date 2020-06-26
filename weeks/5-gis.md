@@ -13,7 +13,7 @@
 
 ## Tuesday, June 30
 
-- Timesheets due to Molly by 12:00 AM
+- Timesheets due to Molly by 12:00 PM
 
 ## Wednesday, July 1
 
