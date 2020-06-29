@@ -4,6 +4,8 @@
 
 [Monday](#monday-june-29) // [Tuesday](#tuesday-june-30) // [Wednesday](#wednesday-july-1) // [Thursday](#thursday-july-2) // *Friday is a holiday*
 
+## GOAL: upload all media to Omeka by end of the week!
+
 ## Monday, June 29
 
 ### 9:00 GIS basics and Google Earth - Andrea
