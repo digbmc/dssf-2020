@@ -20,7 +20,7 @@ Afternoon Tasks
 - Look at ArcGIS story maps (https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview) and GIS Showcase (https://www.esri.com/en-us/what-is-gis/showcase)
 
 Consider:
-- What do you notice from mapping data in your map and the ESRI maps/story maps?
+- What do you notice from mapping data in your map and the ArcGIS maps/story maps?
 - What do the maps allow you to see that you might not see otherwise?
 - What are the limitations of these maps and/or your map dataset?
 
@@ -35,6 +35,8 @@ Consider:
 
 ### 11:00 Project meeting
 *Note taker: Elizabeth*
+- Mapping observations
+- Present one of the maps/datasets/tours you made
 
 ## Thursday, July 2
 
