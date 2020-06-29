@@ -7,9 +7,23 @@
 ## Monday, June 29
 
 ### 9:00 GIS basics and Google Earth - Andrea
+- Google Earth tutorial: https://programminghistorian.org/en/lessons/googlemaps-googleearth
+- Google Earth: Upload CSV instructions https://support.google.com/earth/answer/176685?hl=en
 
 ### 11:00 Project meeting
 *Note taker: Cindy*
+
+Afternoon Tasks
+- Make your own map using placemarks, paths, polygons, and image overlay in Google Earth
+- Make a CSV of your favorite restaurants in Bryn Mawr, Philadelphia, or your hometown and upload it to Google Earth
+- Make a 20 second tour with a voice over of a route that you normally walk (e.g. between classes at Bryn Mawr)
+- Look at ArcGIS story maps (https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview) and GIS Showcase (https://www.esri.com/en-us/what-is-gis/showcase)
+
+Consider:
+- What do you notice from mapping data in your map and the ESRI maps/story maps?
+- What do the maps allow you to see that you might not see otherwise?
+- What are the limitations of these maps and/or your map dataset?
+
 
 ## Tuesday, June 30
 
