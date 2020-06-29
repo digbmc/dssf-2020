@@ -12,6 +12,9 @@
 
 ### 11:00 Project meeting
 *Note taker: Cindy*
+- REMINDER: NO WORK FRIDAY 
+- Research updates
+- Goals for the week
 
 Afternoon Tasks
 - Make your own map using placemarks, paths, polygons, and image overlay in Google Earth
