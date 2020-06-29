@@ -30,6 +30,8 @@ Consider:
 
 ## Tuesday, June 30
 
+### Data Visualization with Palladio 9 am - Molly
+
 - Timesheets due to Molly by 12:00 PM
 
 ## Wednesday, July 1
