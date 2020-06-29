@@ -18,7 +18,7 @@
 
 Afternoon Tasks
 - Make your own map using placemarks, paths, polygons, and image overlay in Google Earth
-- Make a CSV of your favorite restaurants in Bryn Mawr, Philadelphia, or your hometown and upload it to Google Earth
+- Upload the CSV of the 1847 Quaker census data to Google Maps (see GIS & GE Powerpoint for CSV link and instructions)
 - Make a 20 second tour with a voice over of a route that you normally walk (e.g. between classes at Bryn Mawr)
 - Look at ArcGIS story maps (https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview) and GIS Showcase (https://www.esri.com/en-us/what-is-gis/showcase)
 
