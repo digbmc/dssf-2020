@@ -39,4 +39,4 @@
 ### 11:00 Project meeting
 
 
-[<<< Last week](/7-design.md) [Next week >>>](/9-sustain.md)
+[<<< Last week](/7-design.md) [Next week >>>](/9-making.md)

@@ -9,6 +9,8 @@
 - [ ] Get feedback on site content
 - [ ] Complete intro video
 
+---
+
 ## Monday, July 27
 
 ### 11:00 Project meeting
@@ -28,4 +30,4 @@
 ### 11:00 Project meeting
 
 
-[<<< Last week](/6-text-data.md) [Next week >>>](/8-making.md)
+[<<< Last week](/8-sustain.md) [Next week >>>]
