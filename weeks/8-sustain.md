@@ -4,6 +4,12 @@
 
 [Monday](#monday-july-20) // [Tuesday](#tuesday-july-21) // [Wednesday](#wednesday-july-22) // [Thursday](#thursday-july-23) // [Friday](friday-july-24)
 
+## Week goals:
+- [ ] Complete reflection posts
+- [ ] Supplementary content (timeline, gallery, 2 data visualizations, in place
+
+---
+
 ## Monday, July 20
 
 ### 9:30 Personal Digital Archiving (Allison)

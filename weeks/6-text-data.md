@@ -4,7 +4,9 @@
 
 [Monday](#monday-july-6) // [Tuesday](#tuesday-july-7) // [Wednesday](#wednesday-july-8) // [Thursday](#thursday-july-9) // [Friday](friday-july-10)
 
-## GOAL: upload all media to Omeka by end of the week!
+## Week goals
+- [ ] Basic narrative of 2 conferences complete
+- [ ] Map and data visualizations underway
 
 ## Monday, July 6
 

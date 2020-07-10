@@ -4,10 +4,18 @@
 
 [Monday](#monday-july-13) // [Tuesday](#tuesday-july-14) // [Wednesday](#wednesday-july-15) // [Thursday](#thursday-july-16) // [Friday](friday-july-17)
 
+## Week goals:
+- [ ] Core site content in place (including 2 exhibits and map)
+- [ ] Successful presentation on Friday
+
+---
+
 ## Monday, July 13
 
 ### 11:00 Project meeting
-- Planning presentations for 7/17
+- Planning presentations for Friday
+  - Action items & deadlines
+  - Presentation and task responsibilities
 
 ---
 
