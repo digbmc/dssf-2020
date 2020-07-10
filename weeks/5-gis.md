@@ -14,7 +14,7 @@
 
 ### 11:00 Project meeting
 *Note taker: Cindy*
-- REMINDER: NO WORK FRIDAY 
+- REMINDER: NO WORK FRIDAY
 - Research updates
 - Goals for the week
 
@@ -51,4 +51,4 @@ Consider:
 
 ## Friday, July 3 - *Holiday - no work*
 
-[<<< Last week](/4-data.md) Next week >>>
+[<<< Last week](/4-data.md) [Next week >>>](/6-text-data.md)

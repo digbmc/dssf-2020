@@ -32,12 +32,17 @@
 - Palladio
 - GIS data
 
-## Week 6 (July 6-10) [Text analysis]
+## Week 6 (July 6-10) [Text analysis](weeks/6-text-data.md)
+- TEI
+- Voyant
+- AntConc
 
-## Week 7 (July 15-19) [Visual media & design]
+## Week 7 (July 15-19) [Visual media & design](weeks/7-design.md)
+- Graphic design
+- Photogrammetry
 
-## Week 8 (July 22-26) [Sustainability and preservation]
+## Week 8 (July 22-26) [Sustainability and preservation](weeks/8-sustain.md)
 
-## Week 9 (July 29-August 1) [Critical making & immersive DS]
+## Week 9 (July 29-August 1) [Critical making & immersive DS](weeks/9-making)
 
 ## Week 10 (August 3-7) [Project wrap-up]

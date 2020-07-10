@@ -2,15 +2,7 @@
 
 *Data cleaning & visualization*
 
-[Monday, June 22](#monday-june-22)
-
-[Tuesday, June 23](#tuesday-june-23)
-
-[Wednesday, June 24](#wednesday-june-24)
-
-[Thursday, June 25](#thursday-june-25)
-
-[Friday, June 26](#friday-june-26)
+[Monday](#monday-july-6) // [Tuesday](#tuesday-july-7) // [Wednesday](#wednesday-july-8) // [Thursday](#thursday-july-9) // [Friday](friday-july-10)
 
 ## Monday, June 22
 
