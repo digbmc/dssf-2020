@@ -16,6 +16,7 @@
 - Planning presentations for Friday
   - Action items & deadlines
   - Presentation and task responsibilities
+- Team updates
 
 ---
 
