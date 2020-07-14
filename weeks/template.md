@@ -1,8 +1,8 @@
-# Week X: June 22-26
+# Week X: Dates
 
-*Data cleaning & visualization*
+*Topic*
 
-[Monday](#monday-july-6) // [Tuesday](#tuesday-july-7) // [Wednesday](#wednesday-july-8) // [Thursday](#thursday-july-9) // [Friday](friday-july-10)
+[Monday](#monday-july-6) // [Tuesday](#tuesday-july-7) // [Wednesday](#wednesday-july-8) // [Thursday](#thursday-july-9) // [Friday](#friday-july-10)
 
 ## Monday, June 22
 

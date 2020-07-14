@@ -2,7 +2,7 @@
 
 *Preservation and Sustainability*
 
-[Monday](#monday-july-20) // [Tuesday](#tuesday-july-21) // [Wednesday](#wednesday-july-22) // [Thursday](#thursday-july-23) // [Friday](friday-july-24)
+[Monday](#monday-july-20) // [Tuesday](#tuesday-july-21) // [Wednesday](#wednesday-july-22) // [Thursday](#thursday-july-23) // [Friday](#friday-july-24)
 
 ## Week goals:
 - [ ] Complete reflection posts

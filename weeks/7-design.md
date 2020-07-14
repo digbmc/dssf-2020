@@ -2,7 +2,7 @@
 
 *Design and Presentation*
 
-[Monday](#monday-july-13) // [Tuesday](#tuesday-july-14) // [Wednesday](#wednesday-july-15) // [Thursday](#thursday-july-16) // [Friday](friday-july-17)
+[Monday](#monday-july-13) // [Tuesday](#tuesday-july-14) // [Wednesday](#wednesday-july-15) // [Thursday](#thursday-july-16) // [Friday](#friday-july-17)
 
 ## Week goals:
 - [ ] Core site content in place (including 2 exhibits and map)
@@ -13,6 +13,9 @@
 ## Monday, July 13
 
 ### 11:00 Project meeting
+
+*Note-taker: Tino or Alice*
+
 - Planning presentations for Friday
   - Action items & deadlines
   - Presentation and task responsibilities
@@ -49,4 +52,4 @@
 
 ### 12:30 Peer Presentations
 
-[<<< Last week](/6-text-data.md) [Next week >>>](/8-making.md)
+[<<< Last week](/6-text-data.md) [Next week >>>](/8-sustain.md)
