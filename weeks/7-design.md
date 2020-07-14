@@ -33,7 +33,7 @@
 
 ### 10:00 Project meeting - *note changed time*
 
-### 12:00 Photogrammetry Demo (Molly)
+### 12:00 Photogrammetry Demo (Molly) [Link](https://brynmawr-edu.zoom.us/j/9674472916?pwd=UnROT09UdzlpaXd1QWpQN2hNS1VLQT09) to Zoom Meeting
 
 ---
 
