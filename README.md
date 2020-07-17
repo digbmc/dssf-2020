@@ -39,7 +39,7 @@ Allison Mills - College archivist and project advisor
 
 ### Week 7 (July 15-19) [Visual media & design](weeks/7-design.md)
 
-### Week 8 (July 22-26) [Sustainability and preservation]
+### Week 8 (July 22-26) [Sustainability and preservation](weeks/8-sustain.md)
 
 ### Week 9 (July 29-August 1) [Critical making & immersive DS]
 
