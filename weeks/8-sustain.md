@@ -37,6 +37,18 @@
 
 ### 9:30 JavaScript (Molly)
 
+### Blog post assignment
+
+- Write a post of 500-750 words for the Digital Scholarship blog.
+- Your post should be engaging and explore something about your experience in the summer fellows program.
+- Please include a catchy title and a few images to accompany it.
+- Here's one model:
+  1. Tell a story: about project work, about research, about your learning process, about a difficult task, about an experience. Give your reader a detailed sense of what the experience was like for you.
+  2. Offer a takeaway: what you learned, how this experience changed your thinking, how it connects to something larger (the project, your interests, etc.)
+ - Examples
+  - Early Novels Database [student blog posts](https://earlynovels.github.io/tag/blog/)
+  - Previous year [DSSF reflections](http://digitalscholarship.blogs.brynmawr.edu/2017/08/03/weeks-6-8-project-reflections/)
+
 ---
 
 ## Friday, July 24
