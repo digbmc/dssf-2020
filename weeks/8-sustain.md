@@ -45,10 +45,11 @@
 - Here's one model:
   1. Tell a story: about project work, about research, about your learning process, about a difficult task, about an experience. Give your reader a detailed sense of what the experience was like for you.
   2. Offer a takeaway: what you learned, how this experience changed your thinking, how it connects to something larger (the project, your interests, etc.)
- - Examples
+ - Examples:
   - Early Novels Database [student blog posts](https://earlynovels.github.io/tag/blog/)
   - Previous year [DSSF reflections](http://digitalscholarship.blogs.brynmawr.edu/2017/08/03/weeks-6-8-project-reflections/)
-
+  - DSPA [reflections](http://digitalscholarship.blogs.brynmawr.edu/2018/01/23/data-diaries-and-dolomite/)
+- First draft due: **Monday, July 27** - we will workshop them on **Tuesday, July 28**
 ---
 
 ## Friday, July 24
