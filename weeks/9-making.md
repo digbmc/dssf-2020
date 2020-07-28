@@ -14,7 +14,9 @@
 
 ## Monday, July 27
 
-### 11:00 Project meeting
+### 10:00 Project meeting
+
+### One-on-one meetings with Alice
 
 ## Tuesday, July 28
 
@@ -30,9 +32,17 @@
 
 ## Thursday, July 30
 
+**NB: no Javascript - project work in AM**
+
+*Optional: finish the Js tutorial and reflect in chat by the end of next week*
+
 ## Friday, July 31
 
-### 11:00 Project meeting
+### 9:15 AM Tino - D3 Data Visualization Demo
+
+### 9:45 Project meeting
+
+### 2:00 *Optional: Interview Workshop with Chris Boyland*
 
 
 [<<< Last week](/8-sustain.md) [Next week >>>]
