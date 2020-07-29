@@ -42,7 +42,10 @@
 - Photogrammetry
 
 ## Week 8 (July 22-26) [Sustainability and preservation](weeks/8-sustain.md)
+- Personal digital archiving workshop
 
 ## Week 9 (July 29-August 1) [Critical making & immersive DS](weeks/9-making)
+- Makerspace tour
+- Blog post workshop
 
-## Week 10 (August 3-7) [Project wrap-up]
+## Week 10 (August 3-7) [Project wrap-up](weeks/10-end.md)

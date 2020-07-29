@@ -41,6 +41,6 @@ Allison Mills - College archivist and project advisor
 
 ### Week 8 (July 22-26) [Sustainability and preservation](weeks/8-sustain.md)
 
-### Week 9 (July 29-August 1) [Critical making & immersive DS]
+### Week 9 (July 29-August 1) [Critical making & immersive DS](weeks/9-making.md)
 
-### Week 10 (August 3-7) [Project wrap-up]
+### Week 10 (August 3-7) [Project wrap-up](weeks/10-end.md)

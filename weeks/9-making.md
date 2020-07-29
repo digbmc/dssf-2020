@@ -24,11 +24,22 @@
 - On your own: read and comment on each others' blog posts
 - **10:15** Blog post workshop
 
+### Afternoon
+- Project work
+
 ## Wednesday, July 29
 
 ### 9:30 Makerspace Tour - Bronwen Densmore
 
 ### 11:00 Project meeting
+
+Note-taker: Elizabeth
+
+Agenda:
+- Review video script (Cindy)
+- Today page
+- Site review plans
+- Updates/alignment
 
 ## Thursday, July 30
 
@@ -45,4 +56,4 @@
 ### 2:00 *Optional: Interview Workshop with Chris Boyland*
 
 
-[<<< Last week](/8-sustain.md) [Next week >>>]
+[<<< Last week](/8-sustain.md) [Next week >>>](10-end.md)
