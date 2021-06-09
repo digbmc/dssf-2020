@@ -12,21 +12,21 @@ DH Project profile: [Dunham's Data](https://dunhamsdata.org)
   - Write a reflection about it.
 
 
-## Data Exploration Activity
+## Data exploration activity
 
 Take notes on your observation & be ready to share back:
 
 1. Find a dataset you'd like to explore
 
-- What's the subject?
-- Why did you choose it?
-- How was the data collected?
-- What types of data does it include? E.G numbers, dates, geographic locations, controlled categories, strings.
-- What do you want to show others about your data?
+  - What's the subject?
+  - Why did you choose it?
+  - How was the data collected?
+  - What types of data does it include? E.G numbers, dates, geographic locations, controlled categories, strings.
+  - What do you want to show others about your data?
 
 2. Use Excel, OpenRefine, or [Data Basic](https://databasic.io/en/wtfcsv/) to start exploring your data. What stories or observations emerge? How might you want to display or visualize it?
 
-3. Create one or two visualizations of your data using one of the tools we've discussed (Palladio, Raw Graphs, Excel, etc.)
+3. Create one or two visualizations of your data using one of the tools we've discussed (Palladio, Raw Graphs, Excel, etc.). Need ideas for picking an appropriate type of viz? Check out [from Data to Viz](https://www.data-to-viz.com/)
 
 5. Optional: draw your own data viz.
 
