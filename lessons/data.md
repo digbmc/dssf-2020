@@ -1,8 +1,8 @@
 [<<< Back to week](../weeks/4-data.md)
 
-# Data
+# Data Wrangling & Visualization
 
-## Data wrangling
+## Data Wrangling
 
 [Data cleaning with OpenRefine workshop](https://github.com/tri-cods/tidy-data)
 
@@ -11,24 +11,32 @@ DH Project profile: [Dunham's Data](https://dunhamsdata.org)
   - Read blog post, ["Datasets are Research"](https://dunhamsdata.org/blog/datasets-are-research)
   - Write a reflection about it.
 
-## Data visualization
 
-[Remember: correlation is not causation](https://www.tylervigen.com/spurious-correlations)
+## Data Exploration Activity
 
-### Know your data
+Take notes on your observation & be ready to share back:
 
-Tell us about the dataset you chose.
+1. Find a dataset you'd like to explore
 
 - What's the subject?
+- Why did you choose it?
 - How was the data collected?
 - What types of data does it include? E.G numbers, dates, geographic locations, controlled categories, strings.
 - What do you want to show others about your data?
 
-Use Excel, OpenRefine, [Data Basic](https://databasic.io/en/wtfcsv/) to start exploring your data.
+2. Use Excel, OpenRefine, or [Data Basic](https://databasic.io/en/wtfcsv/) to start exploring your data. What stories or observations emerge? How might you want to display or visualize it?
 
+3. Create one or two visualizations of your data using one of the tools we've discussed (Palladio, Raw Graphs, Excel, etc.)
 
+5. Optional: draw your own data viz.
 
-### Tools
+## Resources
+
+### Sources for datasets
+- [Open Data Philly](https://www.opendataphilly.org/)
+- [Data is Plural Newsletter](https://www.data-is-plural.com/)
+
+### Data viz tools
 - [Raw graphs](https://rawgraphs.io/)
 - MS Excel - pivot tables & charts
 - [ObservableHQ](https://observablehq.com/@observablehq/user-manual) - an interactive creative coding platform
@@ -37,13 +45,16 @@ Use Excel, OpenRefine, [Data Basic](https://databasic.io/en/wtfcsv/) to start ex
 - Programming languages
   - Javascript D3
   - R; plotly
-  - Python
+  - Python: Seaborn, Altair
 - Palladio
 
-### Resources
-- Correlation is not causation: [spurious correlations](https://www.tylervigen.com/spurious-correlations)
+### Other resources
+- Fun data viz examples:
+  - [The Pudding](https://pudding.cool/) - data viz essays. See also their blog post, ["Working with Data"](https://pudding.cool/)
+  - [Makeover Monday](https://www.makeovermonday.co.uk/) -- data viz makeovers!
 - Data Carpentries workshop: [data organization for social scientists](https://datacarpentry.org/spreadsheets-socialsci/)
 
+**NB** correlation is not causation - see [spurious correlations](https://www.tylervigen.com/spurious-correlations)
 
 <!--
 [Nabil - computational essays](https://observablehq.com/@bulbil/computational-essay?collection=@bulbil/computational-essays)
